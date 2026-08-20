@@ -1,0 +1,51 @@
+1 try { . "c:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\a5b5009513\resources\app\out\vs\workb...
+   2 & C:\Users\DELL\AppData\Local\Programs\Python\Python311\python.exe "d:/Chaitanya Devops Weekend/works...
+   3 clea                                                                                                    
+   4 clear                                                                                                   
+   5 python testing.py                                                                                       
+   6 clear                                                                                                   
+   7 python testing.py                                                                                       
+   8 py --verion                                                                                             
+   9 clear                                                                                                   
+  10 python --version                                                                                        
+  11 where.exe python                                                                                        
+  12 where.exe py                                                                                            
+  13 clear                                                                                                   
+  14 python --version                                                                                        
+  15 clear                                                                                                   
+  16 clear                                                                                                   
+  17 py --version                                                                                            
+  18 p                                                                                                       
+  19 py testing.py                                                                                           
+  20 clear                                                                                                   
+  21 ls                                                                                                      
+  22 clear                                                                                                   
+  23 ls -l                                                                                                   
+  24 ls-l                                                                                                    
+  25 clear                                                                                                   
+  26 ls                                                                                                      
+  27 ls -l                                                                                                   
+  28 & C:\Users\DELL\AppData\Local\Programs\Python\Python311\python.exe "d:/Chaitanya Devops Weekend/works...
+  29 & C:\Users\DELL\AppData\Local\Programs\Python\Python311\python.exe "d:/Chaitanya Devops Weekend/works...
+  30 & C:\Users\DELL\AppData\Local\Programs\Python\Python311\python.exe "d:/Chaitanya Devops Weekend/works...
+  31 git status                                                                                              
+  32 git status                                                                                              
+  33 clear                                                                                                   
+  34 git .                                                                                                   
+  35 clear                                                                                                   
+  36 git add .                                                                                               
+  37 git status                                                                                              
+  38 git commit -m "added testing files"                                                                     
+  39 git status                                                                                              
+  40 rm testing.py                                                                                           
+  41 ls            git                                                                                           
+  42 git status                                                                                              
+  43 git restore testing.py                                                                                  
+  44 git status                                                                                              
+  45 ls                                                                                                      
+  46 clear                                                                                                   
+  47 git status                                                                                              
+  48 history                                                                                                 
+  49 clear                                                                                                   
+  50 git status                                                                                              
+  51 clear  
